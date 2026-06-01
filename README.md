@@ -1,5 +1,4 @@
-# toobit_exhange1
-آموزش ثبت‌نام در صرافی توبیت
+# toobit_exhange
 
 # آموزش ثبت‌نام در صرافی Toobit
 
